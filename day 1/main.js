@@ -54,12 +54,13 @@ const images = [
     }
 ];
 
-const articles_styles = `width:500px; height:500px;`
+const articles_styles = `width:400px; height:400px;`
 
-const img_styles = `max-height:300px; max-width:300px`;
+const img_styles = `max-height:300px; max-width:400px`;
 
 function getImage(){
     let n_div = createElem('div');
+    n_div.setAttribute('style', 'display:flex; flex-wrap:wrap;');
     for (i in images){
         let nss = createElem('article');
         let ns = createElem('img');
