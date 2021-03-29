@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\mlh\\mlh\\helloworld\\HelloWorld.csproj": {}
+  },
+  "projects": {
+    "D:\\mlh\\mlh\\helloworld\\HelloWorld.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\mlh\\mlh\\helloworld\\HelloWorld.csproj",
+        "projectName": "HelloWorld",
+        "projectPath": "D:\\mlh\\mlh\\helloworld\\HelloWorld.csproj",
+        "packagesPath": "C:\\Users\\Pyrax\\.nuget\\packages\\",
+        "outputPath": "D:\\mlh\\mlh\\helloworld\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Pyrax\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

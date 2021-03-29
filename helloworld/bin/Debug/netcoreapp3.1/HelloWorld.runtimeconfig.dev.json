@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Pyrax\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Pyrax\\.nuget\\packages"
+    ]
+  }
+}
